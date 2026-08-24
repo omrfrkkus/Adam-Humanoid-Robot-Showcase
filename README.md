@@ -51,7 +51,7 @@
   <img src="media/adam_side.jpg" width="45%" alt="Adam Side View" />
 </p>
 <p align="center">
-  <img src="media/adam_head.jpg" width="60%" alt="Adam Head & Sensor Array" />
+  <img src="media/adam_eye.jpg" width="60%" alt="Adam Eye" />
 </p>
 
 ---
