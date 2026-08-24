@@ -48,7 +48,7 @@
 <p align="center">
   <img src="media/adam_front.jpg" width="45%" alt="Adam Full Body View" />
   &nbsp;
-  <img src="media/adam_hardware.jpg" width="45%" alt="Adam Electronics & Assembly" />
+  <img src="media/adam_side.jpg" width="45%" alt="Adam Side View" />
 </p>
 <p align="center">
   <img src="media/adam_head.jpg" width="60%" alt="Adam Head & Sensor Array" />
